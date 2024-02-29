@@ -6,9 +6,7 @@ import Counter from './components/counter/counter';
   function App() {
     return (
       <div className='App'>
-        <Counter by={1}></Counter>
-        <Counter by={2}></Counter>
-        <Counter by={5}></Counter>
+        <Counter></Counter> 
       </div>
     );
   }
