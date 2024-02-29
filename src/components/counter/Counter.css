@@ -1,16 +1,5 @@
-/* const buttonStyle = {
-    fontSize:"16px",
-    backgroundColor: "#00a5ab",
-    width:"100px",
-    margin: "10px",
-    color: "white",
-    padding: "15px",
-    borderRadius: "30px"
-}; */
-
-.counterButton {
+button {
     font-Size: 16px;
-    background-color: #155d5f;
     width: 100px;
     margin: 10px;
     color: white;
@@ -20,6 +9,13 @@
     border-width: 5px;
 }
 
+.counterButton {
+    background-color: #155d5f;
+}
+
+.resetButton {
+    background-color: #753881;
+}
 
 
 .count {
@@ -27,7 +23,7 @@
     padding: 20px;
 }
 
-.totalCount{
+.totalCount {
     font-size: 150px;
-    color: #155d5f;
+    color:white;
 }
