@@ -15,6 +15,6 @@ export default function CounterButton({ by, incrementMethod, decrementMethod }) 
                 >-{by}</button>
             </div>
         </div>
-
+        
     )
 }
