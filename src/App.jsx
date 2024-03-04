@@ -6,6 +6,7 @@ import Counter from './components/counter/counter';
       <div className='App'>
         <Counter></Counter> 
       </div>
+      
     );
   }
 
